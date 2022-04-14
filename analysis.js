@@ -1,3 +1,4 @@
+// looks good 
 var esprima = require("esprima");
 var options = {tokens:true, tolerant: true, loc: true, range: true };
 var fs = require("fs");
